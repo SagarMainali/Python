@@ -1,6 +1,3 @@
-
-Introduction:
-
 This project is based on designing and implementing a system for
 the Inland Revenue Department of Nepal government that tracks the income taxes. The code
 written serves every required function. The code is totally based on functional programming
