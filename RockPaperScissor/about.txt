@@ -1,6 +1,4 @@
 
-Introduction
-
 This project is a rock, paper and scissor based game.
 The simple concept of the game is that the program asks the user for input in 'number' and generate random number itself.
 The three numbers 1, 2 and 3 are referred as either rock, paper and scissor respectively. 
